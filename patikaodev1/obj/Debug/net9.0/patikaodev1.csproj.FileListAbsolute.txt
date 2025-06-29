@@ -1,0 +1,14 @@
+c:\Csharp\patikaodev1\bin\Debug\net9.0\patikaodev1.exe
+c:\Csharp\patikaodev1\bin\Debug\net9.0\patikaodev1.deps.json
+c:\Csharp\patikaodev1\bin\Debug\net9.0\patikaodev1.runtimeconfig.json
+c:\Csharp\patikaodev1\bin\Debug\net9.0\patikaodev1.dll
+c:\Csharp\patikaodev1\bin\Debug\net9.0\patikaodev1.pdb
+c:\Csharp\patikaodev1\obj\Debug\net9.0\patikaodev1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Csharp\patikaodev1\obj\Debug\net9.0\patikaodev1.AssemblyInfoInputs.cache
+c:\Csharp\patikaodev1\obj\Debug\net9.0\patikaodev1.AssemblyInfo.cs
+c:\Csharp\patikaodev1\obj\Debug\net9.0\patikaodev1.csproj.CoreCompileInputs.cache
+c:\Csharp\patikaodev1\obj\Debug\net9.0\patikaodev1.dll
+c:\Csharp\patikaodev1\obj\Debug\net9.0\refint\patikaodev1.dll
+c:\Csharp\patikaodev1\obj\Debug\net9.0\patikaodev1.pdb
+c:\Csharp\patikaodev1\obj\Debug\net9.0\patikaodev1.genruntimeconfig.cache
+c:\Csharp\patikaodev1\obj\Debug\net9.0\ref\patikaodev1.dll
