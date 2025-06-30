@@ -1,0 +1,14 @@
+C:\Csharp\patikaodev3tipdonusumleri\bin\Debug\net9.0\patikaodev3tipdonusumleri.exe
+C:\Csharp\patikaodev3tipdonusumleri\bin\Debug\net9.0\patikaodev3tipdonusumleri.deps.json
+C:\Csharp\patikaodev3tipdonusumleri\bin\Debug\net9.0\patikaodev3tipdonusumleri.runtimeconfig.json
+C:\Csharp\patikaodev3tipdonusumleri\bin\Debug\net9.0\patikaodev3tipdonusumleri.dll
+C:\Csharp\patikaodev3tipdonusumleri\bin\Debug\net9.0\patikaodev3tipdonusumleri.pdb
+C:\Csharp\patikaodev3tipdonusumleri\obj\Debug\net9.0\patikaodev3tipdonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\patikaodev3tipdonusumleri\obj\Debug\net9.0\patikaodev3tipdonusumleri.AssemblyInfoInputs.cache
+C:\Csharp\patikaodev3tipdonusumleri\obj\Debug\net9.0\patikaodev3tipdonusumleri.AssemblyInfo.cs
+C:\Csharp\patikaodev3tipdonusumleri\obj\Debug\net9.0\patikaodev3tipdonusumleri.csproj.CoreCompileInputs.cache
+C:\Csharp\patikaodev3tipdonusumleri\obj\Debug\net9.0\patikaodev3tipdonusumleri.dll
+C:\Csharp\patikaodev3tipdonusumleri\obj\Debug\net9.0\refint\patikaodev3tipdonusumleri.dll
+C:\Csharp\patikaodev3tipdonusumleri\obj\Debug\net9.0\patikaodev3tipdonusumleri.pdb
+C:\Csharp\patikaodev3tipdonusumleri\obj\Debug\net9.0\patikaodev3tipdonusumleri.genruntimeconfig.cache
+C:\Csharp\patikaodev3tipdonusumleri\obj\Debug\net9.0\ref\patikaodev3tipdonusumleri.dll
