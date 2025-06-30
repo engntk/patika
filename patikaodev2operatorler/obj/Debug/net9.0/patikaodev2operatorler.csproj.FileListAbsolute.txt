@@ -1,0 +1,14 @@
+C:\Csharp\patikaodev2operatorler\bin\Debug\net9.0\patikaodev2operatorler.exe
+C:\Csharp\patikaodev2operatorler\bin\Debug\net9.0\patikaodev2operatorler.deps.json
+C:\Csharp\patikaodev2operatorler\bin\Debug\net9.0\patikaodev2operatorler.runtimeconfig.json
+C:\Csharp\patikaodev2operatorler\bin\Debug\net9.0\patikaodev2operatorler.dll
+C:\Csharp\patikaodev2operatorler\bin\Debug\net9.0\patikaodev2operatorler.pdb
+C:\Csharp\patikaodev2operatorler\obj\Debug\net9.0\patikaodev2operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\patikaodev2operatorler\obj\Debug\net9.0\patikaodev2operatorler.AssemblyInfoInputs.cache
+C:\Csharp\patikaodev2operatorler\obj\Debug\net9.0\patikaodev2operatorler.AssemblyInfo.cs
+C:\Csharp\patikaodev2operatorler\obj\Debug\net9.0\patikaodev2operatorler.csproj.CoreCompileInputs.cache
+C:\Csharp\patikaodev2operatorler\obj\Debug\net9.0\patikaodev2operatorler.dll
+C:\Csharp\patikaodev2operatorler\obj\Debug\net9.0\refint\patikaodev2operatorler.dll
+C:\Csharp\patikaodev2operatorler\obj\Debug\net9.0\patikaodev2operatorler.pdb
+C:\Csharp\patikaodev2operatorler\obj\Debug\net9.0\patikaodev2operatorler.genruntimeconfig.cache
+C:\Csharp\patikaodev2operatorler\obj\Debug\net9.0\ref\patikaodev2operatorler.dll
